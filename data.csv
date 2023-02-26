@@ -1,0 +1,239 @@
+Gejala,Penyakit (ID),Penyakit (EN)
+Demam, FLU, Influenza
+Sakit kepala, FLU, Influenza
+Batuk, FLU, Influenza
+Mual, FLU, Influenza
+Muntah, FLU, Influenza
+Diare, KOLERA, Cholera
+Pusing, KOLERA, Cholera
+Lemas, KOLERA, Cholera
+Kejang perut, KOLERA, Cholera
+Air seni berwarna gelap, HEPATITIS A, Hepatitis A
+Mual, HEPATITIS A, Hepatitis A
+Muntah, HEPATITIS A, Hepatitis A
+Sakit perut, HEPATITIS A, Hepatitis A
+Nyeri pada daerah hati, HEPATITIS A, Hepatitis A
+Nyeri sendi, DEMAM BERDARAH, Dengue fever
+Mual, DEMAM BERDARAH, Dengue fever
+Muntah, DEMAM BERDARAH, Dengue fever
+Pendarahan, DEMAM BERDARAH, Dengue fever
+Kebotakan, ALOPESIA AREATA, Alopecia areata
+Bulu mata rontok, ALOPESIA AREATA, Alopecia areata
+Rambut rontok, ALOPESIA AREATA, Alopecia areata
+Bercak kecil pada kulit kepala, ALOPESIA AREATA, Alopecia areata
+Kulit kepala gatal, ALOPESIA AREATA, Alopecia areata
+Nyeri otot, MUSCLE STRAIN, Muscle strain
+Kaku otot, MUSCLE STRAIN, Muscle strain
+Bengkak, MUSCLE STRAIN, Muscle strain
+Biru-biru di sekitar otot yang cedera, MUSCLE STRAIN, Muscle strain
+Sulit digerakkan, MUSCLE STRAIN, Muscle strain
+Sakit perut, MAAG, Gastritis
+Mual, MAAG, Gastritis
+Muntah, MAAG, Gastritis
+Nyeri ulu hati, MAAG, Gastritis
+Perut kembung, MAAG, Gastritis
+Demam berdarah, DENGUE, Dengue fever
+Nyeri kepala, DENGUE, Dengue fever
+Nyeri sendi, DENGUE, Dengue fever
+Nyeri tulang belakang, DENGUE, Dengue fever
+Lemas, DENGUE, Dengue fever
+Sakit perut karena diare, DISENTRI, Dysentery
+Mual, DISENTRI, Dysentery
+Muntah, DISENTRI, Dysentery
+Kram perut, DISENTRI, Dysentery
+Dehidrasi, DISENTRI, Dysentery
+Sakit kepala, MIGREN, Migraine
+Mual, MIGREN, Migraine
+Penglihatan kabur, MIGREN, Migraine
+Sensitivitas terhadap cahaya, MIGREN, Migraine
+Sensitivitas terhadap suara, MIGREN, Migraine
+Merasa gatal-gatal di seluruh tubuh, SCABIES, Scabies
+Kehilangan nafsu makan,Ulser lambung
+Perut terasa kembung,Ulser lambung
+Kembung dan nyeri perut,Gastritis
+Mual,Gastritis
+Muntah,Gastritis
+Merasa penuh atau kembung,Gastritis
+Sakit pada ulu hati,Gastritis
+Sakit perut,Pancreatitis
+Demam,Pancreatitis
+Mual,Pancreatitis
+Muntah,Pancreatitis
+Sakit perut yang terus-menerus,Pancreatitis
+Perubahan warna kulit dan mata menjadi kuning,Jaundice
+Merasa gatal pada seluruh tubuh,Jaundice
+Mual,Jaundice
+Muntah,Jaundice
+Air seni berwarna gelap,Jaundice
+Merasa lelah dan lemah secara fisik,Anemia
+Pucat pada kulit dan bibir,Anemia
+Nyeri kepala,Anemia
+Sesak napas,Anemia
+Detak jantung cepat,Anemia
+Lemas,Vertigo
+Mual,Vertigo
+Muntah,Vertigo
+Pusing atau sakit kepala,Vertigo
+Keseimbangan tubuh terganggu,Vertigo
+Perut terasa kembung,Ulser lambung,Stomach Ulcer
+Kembung dan nyeri perut,Gastritis,Gastritis
+Mual,Gastritis,Gastritis
+Kehilangan nafsu makan,Ulser lambung,Stomach Ulcer
+Muntah,Gastritis,Gastritis
+Merasa penuh atau kembung,Gastritis,Gastritis
+Sakit pada ulu hati,Gastritis,Gastritis
+Sakit perut,Pancreatitis,Pancreatitis
+Demam,Pancreatitis,Pancreatitis
+Mual,Pancreatitis,Pancreatitis
+Muntah,Pancreatitis,Pancreatitis
+Sakit perut yang terus-menerus,Pancreatitis,Pancreatitis
+Perubahan warna kulit dan mata menjadi kuning,Jaundice,Jaundice
+Merasa gatal pada seluruh tubuh,Jaundice,Jaundice
+Mual,Jaundice,Jaundice
+Muntah,Jaundice,Jaundice
+Air seni berwarna gelap,Jaundice,Jaundice
+Merasa lelah dan lemah secara fisik,Anemia,Anemia
+Pucat pada kulit dan bibir,Anemia,Anemia
+Nyeri kepala,Anemia,Anemia
+Sesak napas,Anemia,Anemia
+Detak jantung cepat,Anemia,Anemia
+Lemas,Vertigo,Vertigo
+Mual,Vertigo,Vertigo
+Muntah,Vertigo,Vertigo
+Pusing atau sakit kepala,Vertigo,Vertigo
+Keseimbangan tubuh terganggu,Vertigo,Vertigo
+Demam tinggi, Malaria, Malaria
+Sakit kepala, Malaria, Malaria
+Lemas, Malaria, Malaria
+Mual dan muntah, Malaria, Malaria
+Sakit perut, Malaria, Malaria
+Pusing, Anemia, Anemia
+Sesak napas, Anemia, Anemia
+Lemas, Anemia, Anemia
+Kulit pucat, Anemia, Anemia
+Lelah, Anemia, Anemia
+Demam, Demam berdarah, Dengue fever
+Nyeri di belakang mata, Demam berdarah, Dengue fever
+Nyeri sendi, Demam berdarah, Dengue fever
+Mual dan muntah, Demam berdarah, Dengue fever
+Ruam kulit, Demam berdarah, Dengue fever
+Demam, Tifus, Typhoid fever
+Nyeri perut, Tifus, Typhoid fever
+Mual dan muntah, Tifus, Typhoid fever
+Sembelit atau diare, Tifus, Typhoid fever
+Lemas, Tifus, Typhoid fever
+Sakit kepala, TBC, Tuberculosis
+Batuk terus-menerus, TBC, Tuberculosis
+Nafsu makan menurun, TBC, Tuberculosis
+Demam, TBC, Tuberculosis
+Sakit dada, TBC, Tuberculosis
+Nyeri tenggorokan, Infeksi Saluran Pernapasan Atas (ISPA), Upper Respiratory Tract Infection (URTI)
+Pilek, Infeksi Saluran Pernapasan Atas (ISPA), Upper Respiratory Tract Infection (URTI)
+Sakit kepala, Infeksi Saluran Pernapasan Atas (ISPA), Upper Respiratory Tract Infection (URTI)
+Batuk, Infeksi Saluran Pernapasan Atas (ISPA), Upper Respiratory Tract Infection (URTI)
+Sakit tenggorokan, Infeksi Saluran Pernapasan Atas (ISPA), Upper Respiratory Tract Infection (URTI)
+Demam, Flu, Influenza
+Sakit kepala, Flu, Influenza
+Batuk, Flu, Influenza
+Sakit tubuh, Flu, Influenza
+Pilek, Flu, Influenza
+Demam, COVID-19, COVID-19
+Batuk kering, COVID-19, COVID-19
+Sesak napas, COVID-19, COVID-19
+Kelelahan, COVID-19, COVID-19
+Hilang indera perasa atau penciuman, COVID-19, COVID-19
+Kram otot, Dehidrasi, Dehydration
+Lelah, Dehidrasi, Dehydration
+Mual, Dehidrasi, Dehydration
+Sakit kepala, Dehidrasi, Dehydration
+Sering buang air kecil, Dehidrasi, Dehydration
+Sakit perut, Kolesistitis, Cholecystitis
+Mual dan muntah, Kolesistitis, Cholecystitis
+Sakit di bawah tulang rusuk kanan, Kolesistitis, Cholecystitis
+Demam, Malaria, Malaria
+Nyeri ulu hati, Gastritis, Gastritis
+Mual, Gastritis, Gastritis
+Muntah, Gastritis, Gastritis
+Perut kembung, Gastritis, Gastritis
+Sakit perut sebelah kiri, Batu ginjal, Kidney stones
+Nyeri saat buang air kecil, Batu ginjal, Kidney stones
+Sakit pinggang sebelah kanan atau kiri, Batu ginjal, Kidney stones
+Sulit buang air kecil, Batu ginjal, Kidney stones
+Nyeri saat buang air kecil, Infeksi saluran kemih, Urinary tract infection (UTI)
+Sering buang air kecil, Infeksi saluran kemih, Urinary tract infection (UTI)
+Demam, Infeksi saluran kemih, Urinary tract infection (UTI)
+Sakit pada saat menstruasi, Kram menstruasi, Menstrual cramps
+Perdarahan menstruasi yang berlebihan, Menorrhagia, Menorrhagia
+Nyeri dada, Serangan jantung, Heart attack
+Nyeri rahang, Serangan jantung, Heart attack
+Nyeri tangan, Serangan jantung, Heart attack
+Nyeri punggung, Serangan jantung, Heart attack
+Kesulitan bernafas, Serangan jantung, Heart attack
+Nyeri pada waktu bercinta, Dispareunia, Dyspareunia
+Rasa sakit di sekitar vagina, Vulvodinia, Vulvodynia
+Pembengkakan pada area kelamin, Bartholin's abscess, Bartholin's abscess
+Sakit di bawah tulang rusuk kanan, Kolesistitis, Cholecystitis
+Sakit perut bagian atas, Kolesistitis, Cholecystitis
+Nyeri bahu kanan, Kolesistitis, Cholecystitis
+Mual, Kolesistitis, Cholecystitis
+Muntah, Kolesistitis, Cholecystitis
+Nyeri pada bagian atas perut, Penyakit tukak lambung, Peptic ulcer disease (PUD)
+Perut terasa kembung, Penyakit tukak lambung, Peptic ulcer disease (PUD)
+Mual, Penyakit tukak lambung, Peptic ulcer disease (PUD)
+Muntah, Penyakit tukak lambung, Peptic ulcer disease (PUD)
+Perut kembung, Penyakit tukak lambung, Peptic ulcer disease (PUD)
+Nyeri perut bagian bawah, Sindrom iritasi usus besar (IBS), Irritable bowel syndrome (IBS)
+Kram perut, Sindrom iritasi usus besar (IBS), Irritable bowel syndrome (IBS)
+Sulit buang air besar, Sindrom iritasi usus besar (IBS), Irritable bowel syndrome (IBS)
+Perut kembung, Sindrom iritasi usus besar (IBS), Irritable bowel syndrome (IBS)
+Mual, Sindrom iritasi usus besar (IBS), Irritable bowel syndrome (IBS)
+Nyeri saat buang air besar, Wasir, Hemorrhoids
+Pendarahan saat buang air besar, Wasir, Hemorrhoids
+Sulit buang air besar, Konstipasi, Constipation
+Mual dan muntah, Gastroenteritis, Gastroenteritis
+Sering kencing, Diabetes melitus, Diabetes mellitus
+Kesemutan, Neuropati perifer, Peripheral neuropathy
+Lemas, Anemia, Anemia
+Nyeri dada, Serangan jantung, Heart attack
+Sesak napas, Asma, Asthma
+Gangguan bicara, Stroke, Stroke
+Mata merah dan nyeri, Konjungtivitis, Conjunctivitis
+Sakit perut bagian bawah, Infeksi saluran kemih, Urinary tract infection
+Demam tinggi, Malaria, Malaria
+Muntah darah, Tukak lambung, Stomach ulcer
+Sakit saat buang air kecil, Batu ginjal, Kidney stone
+Kejang-kejang, Epilepsi, Epilepsy
+Nyeri sendi, Arthritis, Arthritis
+Sakit pada daerah kemaluan, Infeksi menular seksual, Sexually transmitted infection (STI)
+Kulit melepuh dan bernanah, Impetigo, Impetigo
+Kelelahan, Hipotiroidisme, Hypothyroidism
+Rasa sakit pada lutut, Cedera ligamen, Ligament injury
+Nyeri otot, Fibromyalgia, Fibromyalgia
+Bengkak pada kelenjar getah bening, Limfoma, Lymphoma
+Gatal-gatal dan kemerahan pada kulit, Eksim, Eczema
+Nyeri dan kaku pada leher, Stres, Stress
+Kehilangan berat badan yang tiba-tiba, Kanker, Cancer
+Pembengkakan pada kaki dan kaki yang sakit, Varises, Varicose veins
+Gangguan pada keseimbangan tubuh, Vertigo, Vertigo
+Sakit kepala parah, Migren, Migraine
+Sakit pinggang, Skoliosis, Scoliosis
+Bau mulut yang tidak sedap, Gingivitis, Gingivitis
+Sulit tidur, Insomnia, Insomnia
+Gatal-gatal pada kulit kepala, Ketombe, Dandruff
+Telinga sakit, Infeksi telinga, Ear infection
+Pingsan, Sinkope, Syncope
+Menggigil, Flu, Influenza
+Nyeri dan bengkak pada gigi, Karies gigi, Dental caries
+Keringat berlebih, Hiperhidrosis, Hyperhidrosis
+Pusing dan merasa lelah, Anemia defisiensi besi, Iron deficiency anemia
+Gangguan penglihatan, Mata katarak, Cataracts
+Nyeri pada ulu hati, GERD, GERD
+Sulit bernafas saat berolahraga, Asma olahraga, Exercise-induced asthma
+Kulit kering dan gatal, Xerosis, Xerosis
+Gusi berdarah, Periodontitis, Periodontitis
+Mata kabur, Presbiopi, Presbyopia
+Sakit pada sendi jari, Artritis reumatoid, Rheumatoid arthritis
+Sakit kepala dan mual, Meningitis, Meningitis
+Sakit di sekitar mata, Mata bengkak, Swollen eyes
+
+
